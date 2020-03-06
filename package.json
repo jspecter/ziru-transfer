@@ -7,5 +7,8 @@
   "license": "MIT",
   "devDependencies": {
     "chalk": "^3.0.0"
+  },
+  "dependencies": {
+    "koa": "^2.11.0"
   }
 }

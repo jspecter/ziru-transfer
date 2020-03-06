@@ -1,0 +1,11 @@
+{
+  "name": "ziru_transfer",
+  "version": "1.0.0",
+  "description": "'自如租房自动查询'",
+  "main": "index.js",
+  "author": "Leslie_ZHU",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^3.0.0"
+  }
+}
